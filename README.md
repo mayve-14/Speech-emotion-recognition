@@ -1,1 +1,1 @@
-# Speech-emotion-recognition
+Speech emotion recognition using LSTM and Ravdess dataset
